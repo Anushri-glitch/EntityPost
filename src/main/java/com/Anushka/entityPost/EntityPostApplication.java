@@ -8,6 +8,7 @@ public class EntityPostApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EntityPostApplication.class, args);
+		System.out.println("Successfully Run");
 	}
 
 }
